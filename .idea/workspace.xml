@@ -1,7 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17082c7-eb2d-4ab1-890f-44d0d452a3d3" name="Default" comment="" />
+    <list default="true" id="f17082c7-eb2d-4ab1-890f-44d0d452a3d3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/AngularJSµƒ∆Ù∂Øπ˝≥Ã.eddx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Boot3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Module.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/Module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-cookies.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-cookies.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-loader.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-loader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_af-na.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_af-za.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_am-et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-001.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ae.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-bh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-dj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-eg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-eh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-er.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-il.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-iq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-jo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-kw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-om.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-qa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-so.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-sy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-td.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar-ye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_az-cyrl-az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_az-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_az-latn-az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_az-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_bg-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_bn-bd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_bn-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_br-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca-ad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca-es-valencia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_chr-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_chr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_cs-cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_cy-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_da-dk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_da-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-li.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de-lu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_el-cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_el-gr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-001.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-150.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ai.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-as.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-bb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-bm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-bw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-bz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-cc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-cm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-cx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-dg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-dm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-dsrt-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-dsrt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-er.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-fj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-fk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-fm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-gy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-im.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-iso.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-je.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-jm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ke.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-lc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-lr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-mw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-na.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-nf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-nr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-nu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-pg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-pk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-pn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-pr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-pw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-rw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-sz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-tc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-tk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-tv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-tz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-um.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-vc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-vg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-vu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-ws.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-za.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-zm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en-zw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-419.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-cl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-co.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-cr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-cu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-do.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-gq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-gt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-hn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-mx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ni.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-pa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-pe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-pr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-py.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-uy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es-ve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_et-ee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_eu-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fa-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fa-ir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fi-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fil-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-bf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-bi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-bj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-bl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-cd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-cf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-cg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ci.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-cm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-dj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-gf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-gn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-gp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-gq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ht.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-lu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-mu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-nc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-pf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-pm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-re.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-rw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-sc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-sn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-sy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-td.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-tg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-vu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-wf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr-yt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gl-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gsw-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gsw-li.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gsw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gu-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_haw-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_haw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_he-il.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hi-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hr-ba.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hr-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hu-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_id-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_is-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_it-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_it-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_it-sm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_iw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ja-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ka-ge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_kk-cyrl-kz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_kk-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_km-kh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_kn-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ko-kp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ko-kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ky-cyrl-kg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ky-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ln-ao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ln-cd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ln-cf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ln-cg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ln.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lo-la.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lt-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lv-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mk-mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ml-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mn-cyrl-mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mn-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mr-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-latn-bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-latn-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-latn-sg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mt-mt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_mt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_my-mm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nb-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nb-sj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ne-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ne-np.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-aw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-bq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-cw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl-sx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_no-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_or-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_or.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pa-arab-pk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pa-arab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pa-guru-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pa-guru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pl-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-ao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-gw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-mo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-mz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-st.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt-tl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ro-md.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ro-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-kg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-kz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-md.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_si-lk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sk-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sl-si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sq-al.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sq-mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sq-xk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-cyrl-ba.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-cyrl-me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-cyrl-rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-cyrl-xk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-latn-ba.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-latn-me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-latn-rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-latn-xk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sv-ax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sv-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sv-se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sw-ke.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sw-tz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sw-ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ta-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ta-lk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ta-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ta-sg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_te-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_th-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_tl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_tr-cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_tr-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uk-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ur-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ur-pk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-arab-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-arab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-cyrl-uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-latn-uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_vi-vn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hans-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hans-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hans-mo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hans-sg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hans.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hant-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hant-mo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hant-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zu-za.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/i18n/angular-locale_zu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-messages.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-messages.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/angular-obj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/angular-obj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-resource.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-route.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-sanitize.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-scenario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-touch.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular-touch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/errors.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/jQuery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/jQuery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/jquery-1.9.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ng-grid-2.0.12/ng-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ng-grid-2.0.12/ng-grid.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ng-grid-2.0.12/ng-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ng-grid-2.0.12/ng-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ng-grid-2.0.12/ng-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/ui-bootstrap-tpls-0.11.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/version.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/angular-1.3.0.14/version.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="angular.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +532,25 @@
     <favorites_list name="angular" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bookstore/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4">
+              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yang yang" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -87,6 +615,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="100" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="116" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="120" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="914" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="113" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="116" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="910" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -128,6 +672,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f17082c7-eb2d-4ab1-890f-44d0d452a3d3" name="Default" comment="" />
@@ -141,14 +688,15 @@
     <frame x="0" y="23" width="1280" height="731" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -160,8 +708,20 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add angular bootstrap frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="add angular bootstrap frameworks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -180,6 +740,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
           <folding />
         </state>
       </provider>
